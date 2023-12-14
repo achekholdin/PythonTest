@@ -1,4 +1,4 @@
-changed line in text file
+changed line in text file more line
 changed first line in hub
 proba
 new line
