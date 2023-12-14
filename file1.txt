@@ -1,4 +1,4 @@
-test text
+changed line in text file
 gitcomm
 proba
 new line
